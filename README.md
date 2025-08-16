@@ -12,6 +12,7 @@ Hi, I'm **Pritish Sharma**, a computer science student at **IIIT Nagpur**, build
    
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=pritishsharma2006&theme=radical)  
+<br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pritishsharma2006)
 
 ---
