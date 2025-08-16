@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👑 Bienvenue dans mon royaume GitHub !
 
-<!--
-**pritishsharma2006/pritishsharma2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Pritish Sharma**, a computer science student at **IIIT Nagpur**, building **web projects** and exploring **entrepreneurship & startups** 🚀.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritishsharma2006&show_icons=true&theme=radical)  |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritishsharma2006&theme=radical)   |
+   
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pritishsharma2006&theme=radical)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pritishsharma2006)
+
+---
+
+
+## ✨ Fun Facts
+
+- Coffee fuels my coding ☕  
+- Always learning something new 🌌  
+- Passionate about turning ideas into reality 🚀
