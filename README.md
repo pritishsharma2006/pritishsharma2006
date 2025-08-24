@@ -11,7 +11,8 @@ Hi, I'm **Pritish Sharma**, a computer science student at **IIIT Nagpur**, build
 |![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritishsharma2006&show_icons=true&theme=radical)  |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritishsharma2006&theme=radical)   |
    
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=pritishsharma2006&theme=radical)  
+![trophy](https://github-trophies.vercel.app/?username=pritishsharma2006)
+
 <br>
 ![Pritish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritishsharma2006&theme=react-dark&hide_border=true)
 <br>
