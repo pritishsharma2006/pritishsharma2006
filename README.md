@@ -6,8 +6,6 @@ Hi, I'm **Pritish Sharma**, a computer science student at **IIIT Nagpur**, build
 
 ## 📊 GitHub Stats
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
 
    
 
